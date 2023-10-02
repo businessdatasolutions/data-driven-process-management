@@ -1,5 +1,6 @@
 project:
   type: book
+  output-dir: chapters
 
 book:
   title: "Data Driven Process Management"
