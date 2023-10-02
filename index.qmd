@@ -1,9 +1,8 @@
 ---
 jupyter: envpy39
+lang: "nl"
 ---
 
-# Preface {.unnumbered}
+# Welkom {.unnumbered}
 
-This is a Quarto book.
-
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+![Bron: @fischer2022knowing](images/ddo-framework.png){.my-5}
