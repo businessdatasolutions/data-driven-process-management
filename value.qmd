@@ -1,0 +1,16 @@
+---
+jupyter: envpy39
+---
+
+# Waardecreatie
+
+::: {.ratio .ratio-16x9 .my-5}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uH-ffKIgb38?si=TZsySe2abVa5HYPk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::
+
+1.  Hoe beschrijft de spreker de relatie tussen storytelling en number crunching in waardebepaling?
+2.  Hoe gebruikt de spreker data om de waarde van een bedrijf zoals Uber in 2014 te bepalen?
+3.  Welke stappen beschrijft de spreker in het proces van het omzetten van een verhaal naar waarde?
+4.  Wat zijn volgens de spreker de potentiële valkuilen van het vertrouwen op alleen cijfers of alleen verhalen bij het bepalen van de waarde van een bedrijf?
+5.  Hoe zou je de balans tussen data (numbers) en verhaal (narrative) aanpassen in verschillende fasen van de levenscyclus van een organisatie?

@@ -7,6 +7,41 @@
     "text": "Welkom\n\n\n\nBron: Fischer e.a. (2022)\n\n\n\n\n\n\nFischer, Hannes, Martin Wiener, Susanne Strahringer, Julia Kotlarsky, en Katja Bley. 2022. ‘From Knowing to Data-Driven Organizations: Review and Conceptual Framework’."
   },
   {
+    "objectID": "culture.html",
+    "href": "culture.html",
+    "title": "2  Datacultuur",
+    "section": "",
+    "text": "Definieer het begrip organisatiecultuur en leg het belang ervan uit in de huidige zakelijke omgeving.\nLeg uit welke uitdagingen er zijn bij het meten van organisatiecultuur.\nHoe kunnen organisaties de overgang naar een data-driven cultuur benaderen en welke stappen kunnen ze nemen om weerstand tegen verandering te overwinnen?\nHoe kan men de effectiviteit van maatregelen evalueren die genomen zijn om een data-driven cultuur te bevorderen?\nAls u de taak krijgt om een data-driven cultuur in een organisatie te bevorderen, welke best practices zou u dan overwegen?"
+  },
+  {
+    "objectID": "sourcing.html",
+    "href": "sourcing.html",
+    "title": "3  Data Sourcing",
+    "section": "",
+    "text": "Wat wordt bedoeld met ‘data centric ai development’?\nHoe kunnen teams de kwaliteit van hun data verbeteren volgens de presentatie?\nWaarom is het belangrijk om te focussen op ‘goede data’ in plaats van simpelweg meer data te verzamelen?\nBespreek de voordelen en beperkingen van het gebruik van tools zoals ‘agreement-based labeling’ in machine learning.\nAndrew Ng heeft ooit gesteld: “AI is the new electricity”. Wat wordt hiermee bedoeld?"
+  },
+  {
+    "objectID": "capabilities.html",
+    "href": "capabilities.html",
+    "title": "4  Capaciteiten",
+    "section": "",
+    "text": "Lees het volgende artikel: Reskilling in the Age of AI\n\nWat wordt bedoeld met ‘data capabilities’ en ‘reskilling’?\nGeef voorbeelden van hoe ‘reskilling’ kan inzetten om de datacapaciteiten van de organisatie te verbeteren.\nWat zijn de potentiële risico’s van het niet aanpakken van de behoefte aan omscholing in het licht van technologische vooruitgang? Hoe groot schat je ze in voor jouw organisatie?\nBedenk een samenhangende programma voor reskilling en ontwikkeling van datacapaciteiten om jouw organisatie voor te bereiden op toekomstige technologische uitdagingen."
+  },
+  {
+    "objectID": "decisions.html",
+    "href": "decisions.html",
+    "title": "5  Besluitvorming",
+    "section": "",
+    "text": "Hoe gebruikt Uber data om beslissingen te nemen over prijsstelling?\nHoe heeft Uber data gebruikt om inzicht te krijgen in het gedrag en de voorkeuren van zijn chauffeurs en klanten?\nAnalyseer de potentiële risico’s en voordelen van Uber’s afhankelijkheid van data voor besluitvorming.\nMet welke ethische overwegingen dient rekening te worden gehouden bij het gebruik van data voor besluitvorming, zoals in het geval van Uber?\nStel dat je een consultant bent die is ingehuurd om jouw organisatie te helpen meer data driven te werken. Hoe zou je de voorbeelden van data-driven decision-making uit deze casus gebruiken?"
+  },
+  {
+    "objectID": "value.html",
+    "href": "value.html",
+    "title": "6  Waardecreatie",
+    "section": "",
+    "text": "Hoe beschrijft de spreker de relatie tussen storytelling en number crunching in waardebepaling?\nHoe gebruikt de spreker data om de waarde van een bedrijf zoals Uber in 2014 te bepalen?\nWelke stappen beschrijft de spreker in het proces van het omzetten van een verhaal naar waarde?\nWat zijn volgens de spreker de potentiële valkuilen van het vertrouwen op alleen cijfers of alleen verhalen bij het bepalen van de waarde van een bedrijf?\nHoe zou je de balans tussen data (numbers) en verhaal (narrative) aanpassen in verschillende fasen van de levenscyclus van een organisatie?"
+  },
+  {
     "objectID": "references.html",
     "href": "references.html",
     "title": "References",

@@ -1,0 +1,17 @@
+---
+jupyter: envpy39
+---
+
+# Besluitvorming
+
+::: {.ratio .ratio-16x9 .my-5}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/63wt3TgGGxI?si=bHIOL73E1I_rJ9V-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+:::
+
+1.  Hoe gebruikt Uber data om beslissingen te nemen over prijsstelling?
+2.  Hoe heeft Uber data gebruikt om inzicht te krijgen in het gedrag en de voorkeuren van zijn chauffeurs en klanten?
+3.  Analyseer de potentiële risico's en voordelen van Uber's afhankelijkheid van data voor besluitvorming.
+4.  Met welke ethische overwegingen dient rekening te worden gehouden bij het gebruik van data voor besluitvorming, zoals in het geval van Uber?
+5.  Stel dat je een consultant bent die is ingehuurd om jouw organisatie te helpen meer data driven te werken. Hoe zou je de voorbeelden van data-driven decision-making uit deze casus gebruiken?

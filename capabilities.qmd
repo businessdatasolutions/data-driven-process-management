@@ -1,0 +1,18 @@
+---
+jupyter: envpy39
+---
+
+# Capaciteiten
+
+::: {.ratio .ratio-16x9 .my-5}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ymuFT4MisrU?si=7fC8o8cxfqW5i3yN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+:::
+
+Lees het volgende artikel: [Reskilling in the Age of AI](https://drive.google.com/file/d/1963EuZNRp1jMLAKiHKEmFfXl8hBuXQoa/view?usp=sharing){target="_blank"}
+
+1.  Wat wordt bedoeld met 'data capabilities' en 'reskilling'?
+2.  Geef voorbeelden van hoe 'reskilling' kan inzetten om de datacapaciteiten van de organisatie te verbeteren.
+3.  Wat zijn de potentiële risico's van het niet aanpakken van de behoefte aan omscholing in het licht van technologische vooruitgang? Hoe groot schat je ze in voor jouw organisatie?
+4.  Bedenk een samenhangende programma voor reskilling en ontwikkeling van datacapaciteiten om jouw organisatie voor te bereiden op toekomstige technologische uitdagingen.

@@ -3,3 +3,15 @@ jupyter: envpy39
 ---
 
 # Datacultuur
+
+::: {.ratio .ratio-16x9 .my-5}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VAq7qJ2nzAQ?si=ebbVCTN7hFS9T3Bo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+:::
+
+1.  Definieer het begrip organisatiecultuur en leg het belang ervan uit in de huidige zakelijke omgeving.
+2.  Leg uit welke uitdagingen er zijn bij het meten van organisatiecultuur.
+3.  Hoe kunnen organisaties de overgang naar een data-driven cultuur benaderen en welke stappen kunnen ze nemen om weerstand tegen verandering te overwinnen?
+4.  Hoe kan men de effectiviteit van maatregelen evalueren die genomen zijn om een data-driven cultuur te bevorderen?
+5.  Als u de taak krijgt om een data-driven cultuur in een organisatie te bevorderen, welke best practices zou u dan overwegen?

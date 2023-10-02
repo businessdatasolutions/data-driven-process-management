@@ -3,3 +3,15 @@ jupyter: envpy39
 ---
 
 # Data Sourcing
+
+::: {.ratio .ratio-16x9 .my-5}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/avoijDORAlc?si=T8oHWWaPyU2_IHim" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+:::
+
+1.  Wat wordt bedoeld met 'data centric ai development'?
+2.  Hoe kunnen teams de kwaliteit van hun data verbeteren volgens de presentatie?
+3.  Waarom is het belangrijk om te focussen op 'goede data' in plaats van simpelweg meer data te verzamelen?
+4.  Bespreek de voordelen en beperkingen van het gebruik van tools zoals 'agreement-based labeling' in machine learning.
+5.  Andrew Ng heeft ooit gesteld: "AI is the new electricity". Wat wordt hiermee bedoeld?

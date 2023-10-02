@@ -9,8 +9,11 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - sourcing.qmd
     - culture.qmd
+    - sourcing.qmd
+    - capabilities.qmd
+    - decisions.qmd
+    - value.qmd
     - references.qmd
 
 bibliography: references.bib
